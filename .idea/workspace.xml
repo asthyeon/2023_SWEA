@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd6c7db-ccd9-4139-87a5-9007fe34113c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16268_ballonpang2/16268_balloonpang2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16268_ballonpang2/16268_balloonpang2_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16268_ballonpang2/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16910_dotincircle/16910_dotincircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16910_dotincircle/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1945_factorization/1945_factorization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1945_factorization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1954_snailnumber/1954_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1979_wherewords/1979_review2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1979_wherewords/1979_wherewords2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4836_coloring/4836_coloring2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5789_boxchange/5789_boxchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5789_boxchange/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6019_flyintrain/6019_flyintrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6019_flyintrain/s_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6485_Samsungbus/6485_Samsungbus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6485_Samsungbus/6485_Samsungbus_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6485_Samsungbus/s_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9490_ballonpang/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks_Ladder1/Homeworks_Ladder1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1954_snailnumber/1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/1954_snailnumber/1954.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

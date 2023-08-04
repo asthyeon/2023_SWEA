@@ -40,7 +40,7 @@ lan_cut = 0
 lan_min_list = []
 
 # 반복문
-while True:
+while len(lan_min_list) < len(lan):
     # 이진 탐색
     for i in range(lan_length):
         start = 0
