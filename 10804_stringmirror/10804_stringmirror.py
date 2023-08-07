@@ -1,24 +1,24 @@
 import sys
-sys.stdin = open('sample_input.txt')
+sys.stdin = open('input.txt')
 
 T = int(input())
 for tc in range(1, T+1):
-    N = int(input())
-    arr = list(map(int, input().split()))
+    word = input()
 
-    min_idx = 0 # 최소값의 인덱스
-    max_idx = 0 # 최대값의 인덱스
-    for i in range(1, N):
-        # 최소값의 인덱스가 i 번째보다 작으면 바꿔주기
-        if arr[min_idx] > arr[i]:
-            min_idx = i
-        # 최대값의 인덱스가 i 번째보다 작으면 바꿔주기
-        if arr[max_idx] <= arr[i]:
-            max_idx = i
-    # 구간의 차이
-    ans = max_idx - min_idx
-    # 양수 조건 만들어주기
-    if ans < 0:
-        ans = -ans
+    # 거울에 비친 글자를 넣을 문자열
+    result = ''
 
-    print(f'#{tc} {ans}')
+    # 거울에 비치기
+    # 먼저 글자를 뒤집기
+    for i in word[::-1]:
+        # 각 글자들을 거울에 비쳤을 때 나오는 글자로 치환
+        if i == 'b':
+            result += 'd'
+        elif i == 'd':
+            result += 'b'
+        elif i == 'p':
+            result += 'q'
+        else:
+            result += 'p'
+
+    print(f'#{tc} {result}')
