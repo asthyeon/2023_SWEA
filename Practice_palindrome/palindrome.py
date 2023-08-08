@@ -35,4 +35,8 @@ for tc in range(1, T + 1):
                 if arr[rr2][0][c2] == arr[M + (r2 * 2) - 1 - rr2][0][c2]:
                     string += arr[rr2][0][c2]
             if len(string) == M:
+<<<<<<< HEAD
                 print(f'#{tc} {string}')
+=======
+                print(f'#{tc} {string}')
+>>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d

@@ -28,4 +28,8 @@ for tc in range(1, T + 1):
     print('SIX ' * arr_dict['SIX'], end = '')
     print('SVN ' * arr_dict['SVN'], end = '')
     print('EGT ' * arr_dict['EGT'], end = '')
+<<<<<<< HEAD
     print('NIN ' * arr_dict['NIN'], end = '')
+=======
+    print('NIN ' * arr_dict['NIN'], end = '')
+>>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d

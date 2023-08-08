@@ -21,4 +21,8 @@ for tc in range(1, T+1):
         else:
             result += 'p'
 
+<<<<<<< HEAD
     print(f'#{tc} {result}')
+=======
+    print(f'#{tc} {result}')
+>>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d

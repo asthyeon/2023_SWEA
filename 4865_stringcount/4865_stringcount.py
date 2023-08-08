@@ -26,4 +26,8 @@ for tc in range(1, T + 1):
         if max_str < str_dict[k]:
             max_str = str_dict[k]
 
+<<<<<<< HEAD
     print(f'#{tc} {max_str}')
+=======
+    print(f'#{tc} {max_str}')
+>>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
