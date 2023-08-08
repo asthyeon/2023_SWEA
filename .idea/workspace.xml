@@ -1,47 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="8dd6c7db-ccd9-4139-87a5-9007fe34113c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1213_string/1213_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1213_string/1213_string_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1213_string/test_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1974_sudoku/1974_sudoku2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3143_fastest_string/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks_palidorme1/Homeworks_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks_palidorme1/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" beforeDir="false" afterPath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" afterDir="false" />
-=======
-    <list default="true" id="302ec1a6-2f51-4c4e-832f-7e74b3597b9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+    <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" beforeDir="false" afterPath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" afterDir="false" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/4864_stringcomparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/4864_stringcomparison/4864_stringcomparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4864_stringcomparison/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" beforeDir="false" afterPath="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5356_tell_col/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5356_tell_col/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" beforeDir="false" afterPath="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5432_iron_rod/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5432_iron_rod/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_palindrome/palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,221 +17,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2Tevz7Q7Pba6CYvYkOGtCOizqs6" />
+  <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homeworks_GNS" />
-    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Homeworks_GNS" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1974_sudoku" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\3143_fastest_string" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1213_string" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Homeworks_palidorme1" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\3143_fastest_string" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1213_string" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\5432_iron_rod" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\10804_stringmirror" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.1974_sudoku">
-    <configuration name="1974_sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="4834_numcard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
-=======
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\asthy\Desktop\algorithm\5356_tell_col" />
-      <recent name="C:\Users\asthy\Desktop\algorithm\4864_stringcomparison" />
-      <recent name="C:\Users\asthy\Desktop\algorithm\5432_iron_rod" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.5432_iron_rod">
-    <configuration name="4865_stringcount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1974_sudoku" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4834_numcard" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4865_stringcount" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="1974_sudoku2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-=======
-    <configuration name="5356_tell_col" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1974_sudoku" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1974_sudoku/1974_sudoku2.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5356_tell_col" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="3143_fastest_string2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-=======
-    <configuration name="5432_iron_rod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3143_fastest_string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string2.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5432_iron_rod" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="3143_fastest_string3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-=======
-    <configuration name="Homeworks_GNS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3143_fastest_string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string3.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks_GNS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="Homeworks_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-=======
-    <configuration name="palindrome(newbie)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks_palidorme1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks_palidorme1/Homeworks_palindrome.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_palindrome(newbie)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4834_numcard/4834_numcard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,95 +52,19 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Python.1974_sudoku" />
-        <item itemvalue="Python.1974_sudoku2" />
-        <item itemvalue="Python.3143_fastest_string2" />
-        <item itemvalue="Python.3143_fastest_string3" />
-        <item itemvalue="Python.Homeworks_palindrome" />
-=======
-        <item itemvalue="Python.5432_iron_rod" />
-        <item itemvalue="Python.Homeworks_GNS" />
-        <item itemvalue="Python.palindrome(newbie)" />
-        <item itemvalue="Python.5356_tell_col" />
-        <item itemvalue="Python.4865_stringcount" />
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
+        <item itemvalue="Python.4834_numcard" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="302ec1a6-2f51-4c4e-832f-7e74b3597b9c" name="Changes" comment="" />
-      <created>1691416620553</created>
+      <changelist id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="" />
+      <created>1691483318000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691416620553</updated>
+      <updated>1691483318000</updated>
     </task>
     <servers />
   </component>
-<<<<<<< HEAD
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/16268_ballonpang2/16268_balloonpang2.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5789_boxchange/5789_boxchange.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1979_wherewords/1979_wherewords2.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/1945_factorization/1945_factorization.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4836_coloring/4836_coloring2.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Practice_palindrome/palindrome.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py</url>
-          <line>4</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5356_tell_col/5356_tell_col.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-=======
->>>>>>> ec111fdab7cfd182b608b5e2cc2ec6fe59c8bb7d
 </project>
