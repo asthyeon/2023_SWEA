@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd6c7db-ccd9-4139-87a5-9007fe34113c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1213_string/1213_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1213_string/1213_string_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1213_string/test_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1974_sudoku/1974_sudoku2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3143_fastest_string/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks_palidorme1/Homeworks_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks_palidorme1/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" beforeDir="false" afterPath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/4864_stringcomparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/4864_stringcomparison/4864_stringcomparison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4864_stringcomparison/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" beforeDir="false" afterPath="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5356_tell_col/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5356_tell_col/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" beforeDir="false" afterPath="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5432_iron_rod/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5432_iron_rod/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_palindrome/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_palindrome/palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +64,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/4836_coloring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homeworks_GNS" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\4836_coloring" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Homeworks_Ladder1" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Homeworks_GNS" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1974_sudoku" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\3143_fastest_string" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1979_wherewords" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1954_snailnumber" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1213_string" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1945_factorization" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\5789_boxchange" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\6019_flyintrain" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\16910_dotincircle" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\9490_ballonpang" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Homeworks_palidorme1" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\3143_fastest_string" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\1213_string" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\5432_iron_rod" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\10804_stringmirror" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0_Test">
-    <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1974_sudoku">
+    <configuration name="1974_sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1974_sudoku" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_Test/0_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1945_factorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1974_sudoku2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1945_factorization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1974_sudoku" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1945_factorization/1945_factorization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1974_sudoku/1974_sudoku2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4836_coloring2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3143_fastest_string2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4836_coloring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3143_fastest_string" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4836_coloring/4836_coloring2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homeworks_Ladder1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3143_fastest_string3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks_Ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3143_fastest_string" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks_Ladder1/Homeworks_Ladder1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homeworks_Ladder1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homeworks_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks_Ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks_palidorme1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks_Ladder1/Homeworks_Ladder1_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks_palidorme1/Homeworks_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0_Test" />
-        <item itemvalue="Python.4836_coloring2" />
-        <item itemvalue="Python.Homeworks_Ladder1_2" />
-        <item itemvalue="Python.Homeworks_Ladder1" />
-        <item itemvalue="Python.1945_factorization" />
+        <item itemvalue="Python.1974_sudoku" />
+        <item itemvalue="Python.1974_sudoku2" />
+        <item itemvalue="Python.3143_fastest_string2" />
+        <item itemvalue="Python.3143_fastest_string3" />
+        <item itemvalue="Python.Homeworks_palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +221,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -231,9 +255,19 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="36" />
+          <url>file://$PROJECT_DIR$/Practice_palindrome/palindrome.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py</url>
+          <line>4</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5356_tell_col/5356_tell_col.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

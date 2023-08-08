@@ -1,42 +1,31 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('GNS_test_input.txt')
 
-for tc in range(1, 11):
-    N = int(input())
-    arr = list(map(int, input().split()))
+T = int(input())
+for tc in range(1, T + 1):
+    # 테스트 케이스 번호와 길이
+    tc_num, tc_length = input().split()
+    # 테스트 케이스 입력받기
+    arr = list(input().split())
 
-    # 조망권이 확보된 세대 수 초기화
-    view = 0
-
-    for i in range(N):
-        # i 가 0 일 때는 건너뛰기
-        if i == 0:
-            continue
+    # 빈 딕셔너리 만들기
+    arr_dict = {}
+    # 빈 딕셔너리에 각 숫자를 더하기
+    for i in arr:
+        if i in arr_dict:
+            arr_dict[i] += 1
         else:
-            # i가 좌 2칸, 우 2칸보다 클 때,
-            if arr[i] > arr[i - 1] and\
-                    arr[i] > arr[i - 2] and\
-                    arr[i] > arr[i + 1] and\
-                    arr[i] > arr[i + 2]:
-                # 차이 초기화
-                minus = 0
-                # 차이를 담을 리스트 형성
-                minus_list = []
-                # 1 칸 차이, 2칸 차이 각각 비교
-                for j in range(1, 3):
-                    left = arr[i] - arr[i - j]
-                    right = arr[i] - arr[i + j]
-                    # 더 작은 값 minus 로 지정
-                    if left > right:
-                        minus = right
-                    else:
-                        minus = left
-                    # 더 작은 값을 리스트에 담음
-                    minus_list.append(minus)
-                # 리스트에 담긴 두 값을 비교하여 작은 값을 view 에 더함
-                if minus_list[0] > minus_list[1]:
-                    view += minus_list[1]
-                else:
-                    view += minus_list[0]
+            arr_dict[i] = 1
 
-    print(f'#{tc} {view}')
+    # 각 숫자를 순서대로 출력하기
+    print(tc_num)
+    print('ZRO ' * arr_dict['ZRO'], end = '')
+    print('ONE ' * arr_dict['ONE'], end = '')
+    print('TWO ' * arr_dict['TWO'], end = '')
+    print('THR ' * arr_dict['THR'], end = '')
+    print('FOR ' * arr_dict['FOR'], end = '')
+    print('FIV ' * arr_dict['FIV'], end = '')
+    print('SIX ' * arr_dict['SIX'], end = '')
+    print('SVN ' * arr_dict['SVN'], end = '')
+    print('EGT ' * arr_dict['EGT'], end = '')
+    print('NIN ' * arr_dict['NIN'], end = '')
