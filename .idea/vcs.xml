@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/3143_fastest_string" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/String/3143_fastest_string" vcs="Git" />
   </component>
 </project>
