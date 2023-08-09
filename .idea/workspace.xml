@@ -2,240 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Stack/4866_bracket/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/4873_remove_repeat/4873_remove_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/4873_remove_repeat/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/Homework_pascal/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10804_stringmirror/10804_stringmirror.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/10804_stringmirror/10804_stringmirror.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10804_stringmirror/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/10804_stringmirror/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11092_minmax/11092_minmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/11092_minmax/11092_minmax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11092_minmax/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/11092_minmax/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1213_string/1213_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/1213_string/1213_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1213_string/1213_string_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/1213_string/1213_string_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1213_string/test_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/1213_string/test_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16268_ballonpang2/16268_balloonpang2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16268_ballonpang2/16268_balloonpang2_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16268_ballonpang2/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16910_dotincircle/16910_dotincircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/16910_dotincircle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16910_dotincircle/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18075_list1/18075_list1.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/18075_list1/18075_list1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18075_list1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Practice_Gravity/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1945_factorization/1945_factorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/1945_factorization/1945_factorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1945_factorization/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/1945_factorization/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1954_snailnumber/1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1954_snailnumber/1954.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1954_snailnumber/1954_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1954_snailnumber/1954_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1954_snailnumber/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1954_snailnumber/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1966_numsort/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1966_numsort/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1966_numsort/numsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1966_numsort/numsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1974_sudoku/1974_sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1974_sudoku/1974_sudoku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1974_sudoku/1974_sudoku2.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1974_sudoku/1974_sudoku2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1974_sudoku/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1974_sudoku/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1979_wherewords/1979_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1979_wherewords/1979_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1979_wherewords/1979_review2.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1979_wherewords/1979_review2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1979_wherewords/1979_wherewords.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1979_wherewords/1979_wherewords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1979_wherewords/1979_wherewords2.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1979_wherewords/1979_wherewords2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1979_wherewords/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/1979_wherewords/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001_Flykiller/2001_Flykiller.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/2001_Flykiller/2001_Flykiller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001_Flykiller/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/2001_Flykiller/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/Algorithm_project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/0_Test/0_Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/0_Test/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/10804_stringmirror/10804_stringmirror.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/10804_stringmirror/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/11092_minmax/11092_minmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/11092_minmax/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1213_string/1213_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1213_string/1213_string_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1213_string/test_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/16268_ballonpang2/16268_balloonpang2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/16268_ballonpang2/16268_balloonpang2_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/16268_ballonpang2/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/16910_dotincircle/16910_dotincircle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/16910_dotincircle/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/18075_list1/18075_list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/18075_list1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1945_factorization/1945_factorization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1945_factorization/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1954_snailnumber/1954.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1954_snailnumber/1954_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1954_snailnumber/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1966_numsort/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1966_numsort/numsort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1974_sudoku/1974_sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1974_sudoku/1974_sudoku2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1974_sudoku/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1979_wherewords/1979_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1979_wherewords/1979_review2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1979_wherewords/1979_wherewords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1979_wherewords/1979_wherewords2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/1979_wherewords/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/2001_Flykiller/2001_Flykiller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/2001_Flykiller/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string/3143_fastest_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string/3143_fastest_string2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/3143_fastest_string2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4828_minmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4828_minmax/4828_minmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4828_minmax/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4831_bus/4831_bus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4831_bus/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4834_numcard/4834_numcard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4834_numcard/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4835_sum/4835_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4835_sum/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4836_coloring/4836_coloring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4836_coloring/4836_coloring2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4836_coloring/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4837_subsetsum/4837_subsetsum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4837_subsetsum/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4839_binarysearch/4839_binarysearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4839_binarysearch/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4843_specialsort/4843_specialsort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4843_specialsort/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4864_stringcomparison/4864_stringcomparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4864_stringcomparison/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4865_stringcount/4865_stringcount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/4865_stringcount/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5356_tell_col/5356_tell_col.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5356_tell_col/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5432_iron_rod/5432_iron_rod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5432_iron_rod/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5789_boxchange/5789_boxchange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/5789_boxchange/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/6019_flyintrain/6019_flyintrain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/6019_flyintrain/s_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/6485_Samsungbus/6485_Samsungbus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/6485_Samsungbus/6485_Samsungbus_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/6485_Samsungbus/s_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9386_continue/9386_continue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9386_continue/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9490_ballonpang/9490_balloonpang.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9490_ballonpang/9490_balloonpang_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9490_ballonpang/9490_balloonpang_review2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9490_ballonpang/9490_balloonpang_review3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/9490_ballonpang/input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_GNS/GNS_test_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_GNS/Homeworks_GNS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_GNS/Homeworks_GNS_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Ladder1/Homeworks_Ladder1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Ladder1/Homeworks_Ladder1_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Ladder1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Ladder1/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Sum/Homeworks_Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_Sum/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_View/Homeworks_View.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_View/View_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_View/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_palidorme1/Homeworks_palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Homeworks_palidorme1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_Gravity/Gravity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_Gravity/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_babygin/babygin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_babygin/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_delta/Practice_delta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_delta/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_palindrome(newbie)/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_palindrome(newbie)/palindrome(newbie).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_palindrome/palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_palindrome/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_subset/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/Practice_subset/subset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/bubble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/counting_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/list_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3143_fastest_string/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4828_minmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4828_minmax/4828_minmax_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4828_minmax/4828_minmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4828_minmax/4828_minmax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4828_minmax/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4828_minmax/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4831_bus/4831_bus.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4831_bus/4831_bus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4831_bus/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4831_bus/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4834_numcard/4834_numcard.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4834_numcard/4834_numcard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4834_numcard/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4834_numcard/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4835_sum/4835_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4835_sum/4835_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4835_sum/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/4835_sum/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4836_coloring/4836_coloring.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4836_coloring/4836_coloring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4836_coloring/4836_coloring2.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4836_coloring/4836_coloring2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4836_coloring/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4836_coloring/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/4837_subsetsum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/4837_subsetsum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/4837_subsetsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/4837_subsetsum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4837_subsetsum/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4837_subsetsum/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4839_binarysearch/4839_binarysearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4839_binarysearch/4839_binarysearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4839_binarysearch/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4839_binarysearch/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4843_specialsort/4843_specialsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4843_specialsort/4843_specialsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4843_specialsort/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/4843_specialsort/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/4864_stringcomparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/4864_stringcomparison/4864_stringcomparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4864_stringcomparison/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/4864_stringcomparison/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4865_stringcount/4865_stringcount.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/4865_stringcount/4865_stringcount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4865_stringcount/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/4865_stringcount/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5356_tell_col/5356_tell_col.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/5356_tell_col/5356_tell_col.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5356_tell_col/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/5356_tell_col/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5432_iron_rod/5432_iron_rod.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/5432_iron_rod/5432_iron_rod.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5432_iron_rod/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/5432_iron_rod/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5789_boxchange/5789_boxchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/5789_boxchange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5789_boxchange/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6019_flyintrain/6019_flyintrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/6019_flyintrain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6019_flyintrain/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/s_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6485_Samsungbus/6485_Samsungbus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6485_Samsungbus/6485_Samsungbus_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6485_Samsungbus/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/s_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9386_continue/9386_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/9386_continue/9386_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9386_continue/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/9386_continue/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9490_ballonpang/9490_balloonpang_review3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9490_ballonpang/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_GNS/GNS_test_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/Homeworks_GNS/GNS_test_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Homeworks_GNS/Homeworks_GNS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_GNS/Homeworks_GNS_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Homeworks_GNS/Homeworks_GNS_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Ladder1/Homeworks_Ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Ladder1/Homeworks_Ladder1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Ladder1/Homeworks_Ladder1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Ladder1/Homeworks_Ladder1_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Ladder1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Ladder1/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Ladder1/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Ladder1/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Sum/Homeworks_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Sum/Homeworks_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_Sum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Homeworks_Sum/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_View/Homeworks_View.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Homeworks_View/Homeworks_View.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_View/View_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Homeworks_View/View_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_View/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Homeworks_View/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_palidorme1/Homeworks_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Homeworks_palidorme1/Homeworks_palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeworks_palidorme1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/Homeworks_palidorme1/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Gravity/Gravity.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Practice_Gravity/Gravity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Gravity/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/18075_list1/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_babygin/babygin.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Practice_babygin/babygin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_babygin/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List1/Practice_babygin/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_delta/Practice_delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Practice_delta/Practice_delta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_delta/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Practice_delta/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome(newbie)/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/Practice_palindrome(newbie)/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome(newbie)/palindrome(newbie).py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Practice_palindrome(newbie)/palindrome(newbie).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/Practice_palindrome/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_palindrome/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/Practice_palindrome/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_subset/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Practice_subset/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_subset/subset.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2/Practice_subset/subset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/counting_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/4866_bracket/4866_bracket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/Algorithm_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/0_Test/0_Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/0_Test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/10804_stringmirror/10804_stringmirror.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/10804_stringmirror/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/11092_minmax/11092_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/11092_minmax/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1213_string/1213_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1213_string/1213_string_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1213_string/test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/16268_ballonpang2/16268_balloonpang2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/16268_ballonpang2/16268_balloonpang2_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/16268_ballonpang2/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/16910_dotincircle/16910_dotincircle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/16910_dotincircle/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/18075_list1/18075_list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/18075_list1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1945_factorization/1945_factorization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1945_factorization/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1954_snailnumber/1954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1954_snailnumber/1954_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1954_snailnumber/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1966_numsort/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1966_numsort/numsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1974_sudoku/1974_sudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1974_sudoku/1974_sudoku2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1974_sudoku/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1979_wherewords/1979_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1979_wherewords/1979_review2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1979_wherewords/1979_wherewords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1979_wherewords/1979_wherewords2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/1979_wherewords/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/2001_Flykiller/2001_Flykiller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/2001_Flykiller/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/3143_fastest_string/3143_fastest_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/3143_fastest_string/3143_fastest_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/3143_fastest_string/3143_fastest_string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/3143_fastest_string/3143_fastest_string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/3143_fastest_string/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/3143_fastest_string/sample_input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4828_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4828_minmax/4828_minmax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4828_minmax/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4831_bus/4831_bus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4831_bus/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4834_numcard/4834_numcard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4834_numcard/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4835_sum/4835_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4835_sum/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4836_coloring/4836_coloring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4836_coloring/4836_coloring2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4836_coloring/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4837_subsetsum/4837_subsetsum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4837_subsetsum/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4839_binarysearch/4839_binarysearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4839_binarysearch/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4843_specialsort/4843_specialsort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4843_specialsort/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4864_stringcomparison/4864_stringcomparison.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4864_stringcomparison/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4865_stringcount/4865_stringcount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/4865_stringcount/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5356_tell_col/5356_tell_col.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5356_tell_col/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5432_iron_rod/5432_iron_rod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5432_iron_rod/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5789_boxchange/5789_boxchange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/5789_boxchange/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/6019_flyintrain/6019_flyintrain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/6019_flyintrain/s_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/6485_Samsungbus/6485_Samsungbus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/6485_Samsungbus/6485_Samsungbus_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/6485_Samsungbus/s_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9386_continue/9386_continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9386_continue/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9490_ballonpang/9490_balloonpang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9490_ballonpang/9490_balloonpang_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9490_ballonpang/9490_balloonpang_review2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9490_ballonpang/9490_balloonpang_review3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/9490_ballonpang/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_GNS/GNS_test_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_GNS/Homeworks_GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_GNS/Homeworks_GNS_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Ladder1/Homeworks_Ladder1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Ladder1/Homeworks_Ladder1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Ladder1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Ladder1/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Sum/Homeworks_Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_Sum/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_View/Homeworks_View.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_View/View_review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_View/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_palidorme1/Homeworks_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Homeworks_palidorme1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_Gravity/Gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_Gravity/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_babygin/babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_babygin/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_delta/Practice_delta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_delta/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_palindrome(newbie)/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_palindrome(newbie)/palindrome(newbie).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_palindrome/palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_palindrome/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_subset/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/Practice_subset/subset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/bubble.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/counting_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/list_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/3143_fastest_string/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +130,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/String/3143_fastest_string" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -271,12 +151,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stack/Homework_pascal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/String/3143_fastest_string" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\String\3143_fastest_string" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\Homework_pascal" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack" />
     </key>
