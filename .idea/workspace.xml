@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="" />
+    <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1234_password/1234_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1234_password/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1859_million/1859_million.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1859_million/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1961_num_turn/1961_num_turn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1961_num_turn/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1974_sudoku/1974_sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/1974_sudoku/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/5432_iron_rod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/9489_ancient/9489_ancient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving2/9489_ancient/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/16268_balloonpang2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/16268_balloonpang2_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/16910_dotincircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16910_dotincircle/16910_dotincircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16910_dotincircle/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/1945_factorization/1945_factorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/1945_factorization/1945_factorization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/1945_factorization/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/1945_factorization/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/5789_boxchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/5789_boxchange/5789_boxchange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/5789_boxchange/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/6019_flyintrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6019_flyintrain/6019_flyintrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6019_flyintrain/s_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/6485_Samsungbus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/6485_Samsungbus_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/s_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/input1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,20 +77,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\String\3143_fastest_string" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\Homework_pascal" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\Homework_findroad" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\4869_paper" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\4871_graph_route" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\Homework_pascal" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\4873_remove_repeat" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1859_million" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\9489_ancient" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1961_num_turn" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\5432_iron_rod" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1974_sudoku" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4869_paper">
-    <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1859_million">
+    <configuration name="1234_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/1234_password" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_Test/0_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/1234_password/1234_password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4869_paper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1859_million" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack/4869_paper" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/1859_million" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/4869_paper/4869_paper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/1859_million/1859_million.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4871_graph_route" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1961_num_turn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack/4871_graph_route" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/1961_num_turn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/4871_graph_route/4871_graph_route.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/1961_num_turn/1961_num_turn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_findroad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5432_iron_rod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack/Homework_findroad" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/5432_iron_rod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/Homework_findroad/Homework_findroad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/5432_iron_rod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_pascal2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9489_ancient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack/Homework_pascal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/9489_ancient" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/9489_ancient/9489_ancient.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4869_paper" />
-        <item itemvalue="Python.Homework_findroad" />
-        <item itemvalue="Python.4871_graph_route" />
-        <item itemvalue="Python.0_Test" />
-        <item itemvalue="Python.Homework_pascal2" />
+        <item itemvalue="Python.1859_million" />
+        <item itemvalue="Python.9489_ancient" />
+        <item itemvalue="Python.1961_num_turn" />
+        <item itemvalue="Python.5432_iron_rod" />
+        <item itemvalue="Python.1234_password" />
       </list>
     </recent_temporary>
   </component>
@@ -207,14 +243,14 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
-          <line>64</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Stack/4869_paper/4869_paper.py</url>
           <line>20</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
