@@ -2,40 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1234_password/1234_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1234_password/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1859_million/1859_million.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1859_million/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1961_num_turn/1961_num_turn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1961_num_turn/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1974_sudoku/1974_sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/1974_sudoku/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/5432_iron_rod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/9489_ancient/9489_ancient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving2/9489_ancient/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/4874_forth/4874_forth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/4874_forth/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/4875_maze/4875_maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/4875_maze/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/Homework_calculator/Homework_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack2/Homework_calculator/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/16268_balloonpang2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/16268_balloonpang2_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/16268_balloonpang2_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/16268_ballonpang2/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16268_ballonpang2/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/16910_dotincircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16910_dotincircle/16910_dotincircle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/16910_dotincircle/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/16910_dotincircle/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/1945_factorization/1945_factorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/1945_factorization/1945_factorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/1945_factorization/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/1945_factorization/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/5789_boxchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/5789_boxchange/5789_boxchange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/5789_boxchange/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/5789_boxchange/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/6019_flyintrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6019_flyintrain/6019_flyintrain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/6019_flyintrain/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6019_flyintrain/s_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/6485_Samsungbus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/6485_Samsungbus_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/6485_Samsungbus_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/6485_Samsungbus/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/6485_Samsungbus/s_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/9490_balloonpang_review3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/9490_balloonpang_review3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemsolving1/9490_ballonpang/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_solving1/9490_ballonpang/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4866_bracket/4866_bracket.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4866_bracket/4866_bracket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4866_bracket/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4866_bracket/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4869_paper/4869_paper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4869_paper/4869_paper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4869_paper/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4869_paper/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4871_graph_route/4871_graph_route.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4871_graph_route/4871_graph_route.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4871_graph_route/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4871_graph_route/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4873_remove_repeat/4873_remove_repeat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4873_remove_repeat/4873_remove_repeat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/4873_remove_repeat/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/4873_remove_repeat/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Homework_findroad/Homework_findroad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/Homework_findroad/Homework_findroad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Homework_findroad/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/Homework_findroad/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/Homework_pascal/Homework_pascal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/Homework_pascal/Homework_pascal2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Homework_pascal/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stack1/Homework_pascal/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,47 +57,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace/Baekjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Stack2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\String\3143_fastest_string" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack\Homework_pascal" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\Homework_calculator" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4874_maze" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4875_maze" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1859_million" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\9489_ancient" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1961_num_turn" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\5432_iron_rod" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2\1974_sudoku" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1859_million">
-    <configuration name="1234_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/1234_password" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/1234_password/1234_password.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Homework_calculator">
     <configuration name="1859_million" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1961_num_turn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4874_forth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/1961_num_turn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/4874_maze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/1961_num_turn/1961_num_turn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/4874_maze/4874_forth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5432_iron_rod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4875_maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving2/5432_iron_rod" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/4875_maze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving2/5432_iron_rod/5432_iron_rod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/4875_maze/4875_maze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,13 +162,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Homework_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/Homework_calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/Homework_calculator/Homework_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Homework_calculator" />
+        <item itemvalue="Python.4875_maze" />
+        <item itemvalue="Python.4874_forth" />
         <item itemvalue="Python.1859_million" />
         <item itemvalue="Python.9489_ancient" />
-        <item itemvalue="Python.1961_num_turn" />
-        <item itemvalue="Python.5432_iron_rod" />
-        <item itemvalue="Python.1234_password" />
       </list>
     </recent_temporary>
   </component>
@@ -233,17 +220,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stack/4873_remove_repeat/4873_remove_repeat.py</url>
+          <url>file://$PROJECT_DIR$/Stack1/4873_remove_repeat/4873_remove_repeat.py</url>
           <line>14</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stack/Homework_pascal/Homework_pascal.py</url>
+          <url>file://$PROJECT_DIR$/Stack1/Homework_pascal/Homework_pascal.py</url>
           <line>19</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stack/4869_paper/4869_paper.py</url>
+          <url>file://$PROJECT_DIR$/Stack1/4869_paper/4869_paper.py</url>
           <line>20</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
@@ -251,6 +238,16 @@
           <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
           <line>19</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Stack2/4875_maze/4875_maze.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Stack2/Homework_calculator/Homework_calculator.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
