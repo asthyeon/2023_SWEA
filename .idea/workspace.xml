@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1860_bread/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/5097_turn/5097_turn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/5097_turn/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/5099_pizza/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/Homework_create_password/Homework_create_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue1/Homework_create_password/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack2/4880_tournament/4880_tournament.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack2/4880_tournament/4880_tournament.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +41,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
   <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,30 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/workspace/Baekjoon"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4881_arr_min" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\String\3143_fastest_string" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1860_bread" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\5099_pizza" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\Homework_create_password" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\5097_turn" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4880_tournament" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\Homework_calculator2" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4881_arr_min" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\Homework_calculator" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4874_maze" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4880_tournament">
-    <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1860_bread">
+    <configuration name="1860_bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/1860_bread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_Test/0_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4881_arr_min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5097_turn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/4881_arr_min" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/5097_turn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/4881_arr_min/4881_arr_min.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/5097_turn/5097_turn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4881_arr_min2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5099_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/4881_arr_min" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/5099_pizza" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/4881_arr_min/4881_arr_min2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_calculator2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_create_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/Homework_calculator2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/Homework_create_password" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/Homework_calculator2/Homework_calculator2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/Homework_create_password/Homework_create_password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1860_bread" />
+        <item itemvalue="Python.5099_pizza" />
+        <item itemvalue="Python.Homework_create_password" />
+        <item itemvalue="Python.5097_turn" />
         <item itemvalue="Python.4880_tournament" />
-        <item itemvalue="Python.0_Test" />
-        <item itemvalue="Python.4881_arr_min2" />
-        <item itemvalue="Python.4881_arr_min" />
-        <item itemvalue="Python.Homework_calculator2" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +205,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,9 +256,29 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stack2/4880_tournament/4880_tournament.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="45" />
+          <url>file://$PROJECT_DIR$/Queue1/Homework_create_password/Homework_create_password.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
