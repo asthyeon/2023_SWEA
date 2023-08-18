@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1860_bread/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/5097_turn/5097_turn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/5097_turn/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/5099_pizza/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/Homework_create_password/Homework_create_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue1/Homework_create_password/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1227_maze2/1227_maze2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1227_maze2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1238_contact/1238_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/1238_contact/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/4408_return_room/4408_return_room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_solving3/4408_return_room/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5097_turn/5097_turn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5097_turn/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5102_nod_length/5102_nod_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5102_nod_length/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/5105_maze_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/5105_maze_length_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/Homework_maze1/Homework_maze1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue2/Homework_maze1/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,26 +58,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace/Baekjoon" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5105_maze_length" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4881_arr_min" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1860_bread" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\5099_pizza" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\Homework_create_password" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1\5097_turn" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Stack2\4880_tournament" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1227_maze2" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1238_contact" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\Homework_maze1" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5102_nod_length" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5105_maze_length" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1860_bread">
-    <configuration name="1860_bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1227_maze2">
+    <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/1860_bread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_Test/0_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4880_tournament" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1227_maze2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack2/4880_tournament" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/1227_maze2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack2/4880_tournament/4880_tournament.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/1227_maze2/1227_maze2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5097_turn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1238_contact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/5097_turn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/1238_contact" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/5097_turn/5097_turn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/1238_contact/1238_contact.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5099_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4408_return_room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/5099_pizza" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/4408_return_room" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/5099_pizza/5099_pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/4408_return_room/4408_return_room.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_create_password" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_maze1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue1/Homework_create_password" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue2/Homework_maze1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue1/Homework_create_password/Homework_create_password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue2/Homework_maze1/Homework_maze1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1860_bread" />
-        <item itemvalue="Python.5099_pizza" />
-        <item itemvalue="Python.Homework_create_password" />
-        <item itemvalue="Python.5097_turn" />
-        <item itemvalue="Python.4880_tournament" />
+        <item itemvalue="Python.1227_maze2" />
+        <item itemvalue="Python.1238_contact" />
+        <item itemvalue="Python.0_Test" />
+        <item itemvalue="Python.4408_return_room" />
+        <item itemvalue="Python.Homework_maze1" />
       </list>
     </recent_temporary>
   </component>
@@ -246,11 +254,6 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Stack2/4881_arr_min/4881_arr_min2.py</url>
           <line>54</line>
           <option name="timeStamp" value="39" />
@@ -279,6 +282,31 @@
           <url>file://$PROJECT_DIR$/Problem_solving3/1860_bread/1860_bread.py</url>
           <line>35</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_solving3/4408_return_room/4408_return_room.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue2/5102_nod_length/5102_nod_length.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue2/5105_maze_length/5105_maze_length.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Queue2/Homework_maze1/Homework_maze1.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problem_solving3/1238_contact/1238_contact.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
