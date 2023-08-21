@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1227_maze2/1227_maze2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1227_maze2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1238_contact/1238_contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/1238_contact/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/4408_return_room/4408_return_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_solving3/4408_return_room/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5097_turn/5097_turn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5097_turn/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5102_nod_length/5102_nod_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5102_nod_length/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/5105_maze_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/5105_maze_length_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/5105_maze_length/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/Homework_maze1/Homework_maze1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue2/Homework_maze1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/5174_subtree/5174_subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/5174_subtree/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/5176_binary_search/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
     </list>
@@ -58,25 +47,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace/Baekjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tree" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5105_maze_length" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree\5176_binary_search" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree\5174_subtree" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1227_maze2" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3\1238_contact" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\Homework_maze1" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5102_nod_length" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5105_maze_length" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1227_maze2">
+  <component name="RunManager" selected="Python.5176_binary_search">
     <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4408_return_room" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5174_subtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem_solving3/4408_return_room" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/5174_subtree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem_solving3/4408_return_room/4408_return_room.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/5174_subtree/5174_subtree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_maze1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5176_binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue2/Homework_maze1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/5176_binary_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue2/Homework_maze1/Homework_maze1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5176_binary_search" />
+        <item itemvalue="Python.0_Test" />
+        <item itemvalue="Python.5174_subtree" />
         <item itemvalue="Python.1227_maze2" />
         <item itemvalue="Python.1238_contact" />
-        <item itemvalue="Python.0_Test" />
-        <item itemvalue="Python.4408_return_room" />
-        <item itemvalue="Python.Homework_maze1" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +296,16 @@
           <url>file://$PROJECT_DIR$/Problem_solving3/1238_contact/1238_contact.py</url>
           <line>49</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
