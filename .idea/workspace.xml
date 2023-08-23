@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/5177_binaryheap/5177_binaryheap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/5177_binaryheap/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/5178_nodesum/5178_nodesum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/5178_nodesum/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Homework_arithmetic/Homework_arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Homework_arithmetic/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Homework_inorder/Homework_inorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Homework_inorder/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/5185_binarynumber/5185_binarynumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/5185_binarynumber/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/5186_binarynumber2/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/4615_othello/4615_othello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/4615_othello/sample_input(1).txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +41,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
   <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,30 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/asthy/Desktop/algorithm_project/Tree&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Start" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree" />
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2\5105_maze_length" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\Homework_binarypassword" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\5186_binarynumber2" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\5185_binarynumber" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree\4615_othello" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree\Homework_arithmetic" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree\5178_nodesum" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree\5177_binaryheap" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree\Homework_inorder" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree\5176_binary_search" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Homework_arithmetic">
-    <configuration name="5174_subtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Homework_binarypassword">
+    <configuration name="4615_othello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/5174_subtree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/4615_othello" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/5174_subtree/5174_subtree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/4615_othello/4615_othello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5177_binaryheap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5185_binarynumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/5177_binaryheap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/5185_binarynumber" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/5177_binaryheap/5177_binaryheap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/5185_binarynumber/5185_binarynumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5178_nodesum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5186_binarynumber2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/5178_nodesum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/5186_binarynumber2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/5178_nodesum/5178_nodesum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_inorder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Homework_binarypassword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Homework_inorder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/Homework_binarypassword" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Homework_inorder/Homework_inorder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Homework_binarypassword" />
+        <item itemvalue="Python.5186_binarynumber2" />
+        <item itemvalue="Python.5185_binarynumber" />
+        <item itemvalue="Python.4615_othello" />
         <item itemvalue="Python.Homework_arithmetic" />
-        <item itemvalue="Python.5174_subtree" />
-        <item itemvalue="Python.5178_nodesum" />
-        <item itemvalue="Python.5177_binaryheap" />
-        <item itemvalue="Python.Homework_inorder" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +206,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -308,11 +302,6 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tree/5176_binary_search/5176_binary_search.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
           <line>51</line>
           <option name="timeStamp" value="60" />
@@ -341,6 +330,21 @@
           <url>file://$PROJECT_DIR$/Tree/5174_subtree/5174_subtree.py</url>
           <line>49</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/4615_othello/4615_othello.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Start/5185_binarynumber/5185_binarynumber.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
