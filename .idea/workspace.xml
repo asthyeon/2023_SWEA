@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Start/5185_binarynumber/5185_binarynumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/5185_binarynumber/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/5186_binarynumber2/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/4615_othello/4615_othello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/4615_othello/sample_input(1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/1949_hiking/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/1220_Magnetic/1220_Magnetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start/1220_Magnetic/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,28 +53,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Start" />
-    <property name="restartRequiresConfirmation" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/asthy/Desktop/algorithm_project/Start"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Queue2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\A+\1949_hiking" />
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\1220_Magnetic" />
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\Homework_binarypassword" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\Homework_binarypassword" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\5186_binarynumber2" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\5185_binarynumber" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree\4615_othello" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree\Homework_arithmetic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Homework_binarypassword">
-    <configuration name="4615_othello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1949_hiking">
+    <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/4615_othello" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/4615_othello/4615_othello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_Test/0_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5185_binarynumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1220_Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +105,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/5185_binarynumber" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/1220_Magnetic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/5185_binarynumber/5185_binarynumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/1220_Magnetic/1220_Magnetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1949_hiking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+/1949_hiking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,27 +152,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Homework_arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Homework_arithmetic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Homework_arithmetic/Homework_arithmetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1949_hiking" />
+        <item itemvalue="Python.1220_Magnetic" />
+        <item itemvalue="Python.0_Test" />
         <item itemvalue="Python.Homework_binarypassword" />
         <item itemvalue="Python.5186_binarynumber2" />
-        <item itemvalue="Python.5185_binarynumber" />
-        <item itemvalue="Python.4615_othello" />
-        <item itemvalue="Python.Homework_arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +212,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -302,11 +307,6 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0_Test/0_Test.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Tree/Homework_inorder/Homework_inorder.py</url>
           <line>18</line>
           <option name="timeStamp" value="61" />
@@ -345,6 +345,21 @@
           <url>file://$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py</url>
           <line>10</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Start/1220_Magnetic/1220_Magnetic.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

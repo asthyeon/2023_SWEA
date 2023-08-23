@@ -25,7 +25,7 @@ for tc in range(1, 11):
     top = -1
     # 카운트
     cnt = 0
-    
+
     # 아래로 순회하기 때문에 N극 성질부터 판단
     for y in range(N):
         for x in range(N):
