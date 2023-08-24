@@ -20,34 +20,27 @@ def dfs(N, sx, sy, arr):
     stack.append((sx, sy))
     # 시작점 방문 표시
     visited[sx][sy] = 1
-    # 거리 표시
-    road = 0
     while True:
         # 델타 탐색
         for dx, dy in [[0, 1], [1, 0], [0, -1], [-1, 0]]:
             nx, ny = sx + dx, sy + dy
-            # 벽 형성 및 방문하지 않았을 때
-            if 0 <= nx < N and 0 <= ny < N and visited[nx][ny] == 0:
+            # 벽 형성 및 거리가 더 작을 때 교체하기
+            if 0 <= nx < N and 0 <= ny < N and visited[nx][ny] < visited[sx][sy]:
                 if arr[nx][ny] < arr[sx][sy]:
                     stack.append((nx, ny))
                     visited[nx][ny] = visited[sx][sy] + 1
-                    road += 1
                     break
         else:
             if stack:
                 sx, sy = stack.pop()
-                road -= 1
             else:
                 break
-    return road
-
-
-
-    for i in range(N):
-        road = max(visited[i])
+    # 최대 값 출력
+    road_max = 0
+    for j in range(N):
+        road = max(visited[j])
         if road_max < road:
             road_max = road
-
     return road_max
 
 
@@ -78,16 +71,17 @@ for tc in range(1, T + 1):
     # 봉우리 하나씩 K만큼 파고 진행
     for k in range(N):
         for l in range(N):
-            # 최소값 깎기
-            arr[k][l] -= 1
-            # 제일 높은 봉우리에서 진행
-            for sx, sy in location:
-                # 파인 봉우리라면 진행 X
-                if sx != k and sy != l:
-                    length = dfs(N, sx, sy, arr)
-                    # 가장 긴 등산로 길이랑 비교하여 교체
-                    if length_max < length:
-                        length_max = length
+            for m in range(1, K + 1):
+                arr[k][l] -= m
+                # 제일 높은 봉우리에서 진행
+                for sx, sy in location:
+                    # 파인 봉우리라면 진행 X
+                    if sx != k or sy != l:
+                        length = dfs(N, sx, sy, arr)
+                        # 가장 긴 등산로 길이랑 비교하여 교체
+                        if length_max < length:
+                            length_max = length
+                arr[k][l] += m
 
     print(f'#{tc} {length_max}')
 

@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/1949_hiking/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/1220_Magnetic/1220_Magnetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start/1220_Magnetic/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/1952_swimmingpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Start/Homework_binarypassword/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" beforeDir="false" afterPath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +39,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
   <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,29 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/asthy/Desktop/algorithm_project/Start"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/A+" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Problem_solving3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+\2115_beehoney" />
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+\1952_swimmingpool" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\A+\1949_hiking" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\1220_Magnetic" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\Homework_binarypassword" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\Homework_binarypassword" />
-      <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start\5186_binarynumber2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1949_hiking">
+  <component name="RunManager" selected="Python.2115_beehoney">
     <configuration name="0_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5186_binarynumber2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1952_swimmingpool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/5186_binarynumber2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+/1952_swimmingpool" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/5186_binarynumber2/5186_binarynumber2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/1952_swimmingpool/1952_swimmingpool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Homework_binarypassword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2115_beehoney" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Start/Homework_binarypassword" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A+/2115_beehoney" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2115_beehoney" />
+        <item itemvalue="Python.0_Test" />
+        <item itemvalue="Python.1952_swimmingpool" />
         <item itemvalue="Python.1949_hiking" />
         <item itemvalue="Python.1220_Magnetic" />
-        <item itemvalue="Python.0_Test" />
-        <item itemvalue="Python.Homework_binarypassword" />
-        <item itemvalue="Python.5186_binarynumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -347,19 +340,19 @@
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Start/Homework_binarypassword/Homework_binarypassword.py</url>
-          <line>70</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Start/1220_Magnetic/1220_Magnetic.py</url>
           <line>43</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py</url>
-          <line>86</line>
+          <line>79</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
