@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/1952_swimmingpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/2477_carcenter/2477_carcenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+/2477_carcenter/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" beforeDir="false" afterPath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" beforeDir="false" afterPath="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2Th7An3BWU1WDCK7l5gb2iWn0kR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,24 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/A+" />
-    <property name="restartRequiresConfirmation" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asthy/Desktop/algorithm_project/A+&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\A+" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Start" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\Tree" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asthy\Desktop\algorithm_project\A+\2477_carcenter" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+\2115_beehoney" />
       <recent name="C:\Users\SSAFY\Desktop\Algorithm_project\A+\1952_swimmingpool" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\A+\1949_hiking" />
       <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\1220_Magnetic" />
-      <recent name="C:\Users\asthy\Desktop\algorithm_project\Start\Homework_binarypassword" />
     </key>
   </component>
   <component name="RunManager" selected="Python.2115_beehoney">
@@ -204,7 +208,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,13 +349,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py</url>
-          <line>79</line>
+          <line>72</line>
           <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
