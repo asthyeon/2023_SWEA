@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/1952_swimmingpool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/1952_swimmingpool/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/2115_beehoney.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A+/2115_beehoney/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0_Test/0_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_Test/0_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" beforeDir="false" afterPath="$PROJECT_DIR$/A+/1949_hiking/1949_hiking.py" afterDir="false" />
-    </list>
+    <list default="true" id="0de2df9d-f659-475a-9e2d-4a2cc09bc70f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
