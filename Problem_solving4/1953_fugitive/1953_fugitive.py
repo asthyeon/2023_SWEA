@@ -60,26 +60,8 @@ def bfs(sx, sy, arr, visited):
             nx, ny = x + dx, y + dy
             # 벽 형성 및 방문하지 않았고, 터널일 때
             if 0 <= nx < N and 0 <= ny < M and visited[nx][ny] == 0 and arr[nx][ny] != 0:
-                # 상이동
+                # 해당하는 루트를 가진다면 이동
                 if arr[nx][ny] in route[dx, dy]:
-                    # 인큐
-                    q.append((nx, ny))
-                    # 방문 기록
-                    visited[nx][ny] = visited[x][y] + 1
-                # 하이동
-                elif arr[nx][ny] in route[dx, dy]:
-                    # 인큐
-                    q.append((nx, ny))
-                    # 방문 기록
-                    visited[nx][ny] = visited[x][y] + 1
-                # 좌이동
-                elif arr[nx][ny] in route[dx, dy]:
-                    # 인큐
-                    q.append((nx, ny))
-                    # 방문 기록
-                    visited[nx][ny] = visited[x][y] + 1
-                # 우이동
-                else:
                     # 인큐
                     q.append((nx, ny))
                     # 방문 기록
