@@ -1,21 +1,29 @@
-structure = {
-    0:'0',
-        1:'╈',
-        2:'┃',
-        3:'━',
-        4:'┗',
-        5:'┏',
-        6:'┐',
-        7:'┛'
-}
-import sys
-sys.stdin = open("input.txt")
+arr = [2, 2, 1, 1, 3]
 
-T = int(input())
-for tc in range(1, T+1):
-    N,M,R,C,L = map(int,input().split())
-    arr = [list(map(int, input().split())) for i in range(N)]
-    for i in range(N):
-        for j in range(M):
-            print(structure[arr[i][j]],end=' ')
-        print()
+
+def quick_sort(arr):
+    def sort(low, high):
+        if high <= low:
+            return
+
+        mid = partition(low, high)
+        sort(low, mid - 1)
+        sort(mid, high)
+
+    def partition(low, high):
+        pivot = arr[(low + high) // 2]
+        while low <= high:
+            while arr[low] < pivot:
+                low += 1
+            while arr[high] > pivot:
+                high -= 1
+            if low <= high:
+                arr[low], arr[high] = arr[high], arr[low]
+                low, high = low + 1, high - 1
+        return low
+
+    return sort(0, len(arr) - 1)
+
+
+quick_sort(arr)
+print(arr)
