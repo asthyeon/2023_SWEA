@@ -1,29 +1,35 @@
-arr = [2, 2, 1, 1, 3]
+def perm(i, N):
+    global min_v
+    if i == N:
+        tmp = sum(p)
+        if tmp < min_v:
+            min_v = tmp
+        return
 
+    for j in range(N):
+        if used[j] == 0:
+            used[j] = 1
+            p[i] = arr[i][j]
 
-def quick_sort(arr):
-    def sort(low, high):
-        if high <= low:
-            return
+            # 가지치기
+            if sum(p) > min_v:
+                p[i] = 0
+                used[j] = 0
+                continue
+            perm(i + 1, N)
+            used[j] = 0
 
-        mid = partition(low, high)
-        sort(low, mid - 1)
-        sort(mid, high)
+import sys
+sys.stdin = open('input.txt')
+input = sys.stdin.readline
 
-    def partition(low, high):
-        pivot = arr[(low + high) // 2]
-        while low <= high:
-            while arr[low] < pivot:
-                low += 1
-            while arr[high] > pivot:
-                high -= 1
-            if low <= high:
-                arr[low], arr[high] = arr[high], arr[low]
-                low, high = low + 1, high - 1
-        return low
+T = int(input()) # 테스트 케이스 T
+for test in range(1, T + 1):
+    N = int(input()) # 제품의 수
+    arr = [list(map(int, input().split())) for _ in range(N)]
 
-    return sort(0, len(arr) - 1)
-
-
-quick_sort(arr)
-print(arr)
+    used = [0] * N
+    p = [0] * N
+    min_v = 99 * N
+    perm(0, N)
+    print(f'#{test}', min_v)
